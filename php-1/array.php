@@ -81,6 +81,7 @@
         ],
 
     ];
+    echo "<pre>";
     print_r($bioStranger);
     
 
