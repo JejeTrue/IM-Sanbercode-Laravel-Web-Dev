@@ -97,8 +97,14 @@
         ];
         
         // Output:
-        echo "<pre>";
-        print_r($items);
+        echo "Array ( [id] => 001 [name] => Keyboard Logitek [price] => 60000 [description] => Keyboard yang mantap untuk kantoran [source] => logitek.jpeg )";
+        echo "<br>";
+        echo "Array ( [id] => 002 [name] => Keyboard MSI [price] => 300000 [description] => Keyboard gaming MSI mekanik [source] => msi.jpeg )";
+        echo "<br>";
+        echo "Array ( [id] => 003 [name] => Mouse Genius [price] => 50000 [description] => Mouse Genius biar lebih pinter [source] => genius.jpeg )";
+        echo "<br>";
+        echo "Array ( [id] => 004 [name] => Mouse Jerry [price] => 30000 [description] => Mouse yang disukai kucing [source] => jerry.jpeg )";
+        echo "<br>";
         
         echo "<h3>Soal No 4 Asterix </h3>";
         /* 
